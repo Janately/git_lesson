@@ -3,3 +3,4 @@
 # git config --global user.email "youremail@domain.com"
 
 
+# изучаем гитхаб 
